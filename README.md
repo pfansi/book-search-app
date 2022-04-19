@@ -1,4 +1,4 @@
-# Text Editor PWA Application
+# Google Book Search Application
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue)
 
